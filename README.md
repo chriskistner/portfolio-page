@@ -1,2 +1,1 @@
-# portfolio-page
-My Galvanize Portfolio Page
+# Portfolio Site
